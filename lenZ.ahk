@@ -1,0 +1,9 @@
+
++WheelUp::
+{
+    send "^="
+}
++WheelDown::
+{
+    send "^-"
+}
