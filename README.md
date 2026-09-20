@@ -6,4 +6,5 @@ Sometimes it's really hard to read the texts in websites especially for people w
 # how to use it ?
 1. Download Ahk v2 on your computer.
 2. copy or download the code of lenZ.ahk file.
-3. 
+3. add this file to a folder
+4. Add that folder to start menu
